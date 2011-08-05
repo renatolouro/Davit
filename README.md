@@ -1,14 +1,3 @@
-<strong>
-Projeto:                Davit
-
-Versão corrente:        00.001 Alfa
-
-Data de Aprovação:      2010/12/10
-
-Licença: GNU General    Public License, version 3 (GPLv3)
-
-Autor: Renato da Silva Louro (@rslouro) renato@silostecnologia.com.br
-</strong>
 Davit é, inicialmente, uma implementação em Javascript, e adaptação livre, do Robô Karel do professor Mehan Sahami de Stanford. Ele, é um pequeno Robô virtual – um robô triangular no caso do Davit – que pode ser programado por estudantes de programação. Com isso é, no mínimo, uma forma divertida de aprender lógica de programação e, no caso do Davit, também programação em Javascript.
 Para ver o Davit sendo utilizado em aulas práticas de programação visite:
 <a href=http://www.aprenderprogramar.com.br/logica-programacao-davit/>Lógica de Programação com Davit</a>
