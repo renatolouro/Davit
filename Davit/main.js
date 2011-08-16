@@ -1,14 +1,14 @@
 /******************************************************************************
  *    Nome:                   Davit
- *    Copyright/Propriet·rio: 2010/ Renato da Silva Louro (@rslouro)
+ *    Copyright/Propriet√°rio: 2010/ Renato da Silva Louro (@rslouro)
  *    Projeto:                Davit     
  *    Gestor do Arquivo:      Renato da Silva Louro (@rslouro) 
  *                               renato@silostecnologia.com.br
  *    Arquivo:                main.js
- *    IdentificaÁ„o:          dvt
- *    Vers„o corrente:        00.001 Alfa
- *    Data de AprovaÁ„o:      2010/12/10
- *    LicenÁa: GNU General    Public License, version 3 (GPLv3)
+ *    Identifica√ß√£o:          dvt
+ *    Vers√£o corrente:        00.001 Alfa
+ *    Data de Aprova√ß√£o:      2010/12/10
+ *    Licen√ßa: GNU General    Public License, version 3 (GPLv3)
  *    Copyright: 2010-2011    Renato da Silva Louro
  *    
  *    Autor: Renato da Silva Louro (@rslouro) renato@silostecnologia.com.br
@@ -302,7 +302,7 @@ function move()
 {
    if (isFrontBlocked())
    {
-      alert('BOING!!! Bateu na posiÁ„o ('+iPosC+','+iPosL+')');
+      alert('BOING!!! Bateu na posi√ß√£o ('+iPosC+','+iPosL+')');
       return false;
    }
    
@@ -351,7 +351,7 @@ function putDisc()
    {
       if(G_qntDisc==0)
 	  {
-	     alert('Davit n„o tem nenhum disco para colocar aqui!');
+	     alert('Davit n√£o tem nenhum disco para colocar aqui!');
          return false;
 	  }
 	  else
@@ -379,7 +379,7 @@ function getDisc()
 	     return;
 	  }
       
-	  alert('Aqui, na posiÁ„o ('+iPosC+','+iPosL+') n„o existem discos para Davit pegar!');
+	  alert('Aqui, na posi√ß√£o ('+iPosC+','+iPosL+') n√£o existem discos para Davit pegar!');
 	  
 }
 function exec(psCode)
